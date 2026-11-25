@@ -1,0 +1,1 @@
+Apologies — I shipped the bug because the compiler approved it, and I have learned to trust anything that compiles without reading it first.
